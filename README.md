@@ -1,4 +1,4 @@
-# random_forest_classification
+# Random_forest_classification
 Random forest classification generates a single outcome by combining the output of several decision trees. Its popularity has been spurred by its versatility and ease of use, as it can handle both regression and classification problems.
 
 #Learning Goals
